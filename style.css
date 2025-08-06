@@ -1,0 +1,21 @@
+.main-container-header{
+  background-color: FAF9EE;
+}
+
+.jumbotron-1{
+  background-color: A2AF9B;
+}
+
+.card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+.card-background{
+  background-color: A2AF9B;
+}
+
+body{
+  background-color: A2AF9B;
+}
